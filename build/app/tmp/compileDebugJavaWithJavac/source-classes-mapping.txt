@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+fm/last/last_fm/BuildConfig.java
+ fm.last.last_fm.BuildConfig
